@@ -1,5 +1,6 @@
 Project Title:
 Automation Testing of EdTech platform web application
+Website link - https://www.guvi.in/
 
 Project Description :
  This project automates the testing of the GUVI web application using Selenium WebDriver with Python and PyTest.
@@ -8,10 +9,30 @@ The automation framework follows the Page Object Model (POM) design pattern to i
 
 The project validates core functionalities of the GUVI website such as login, signup, navigation, chatbot presence,menu items presence and logout functionality.
 
+
+Test Objective:
+The objective of this project is to implement an automated testing framework for the GUVI web application using Python Selenium. The primary goals are to:
+
+Validate Functionalities: Ensure the core functionalities of the GUVI platform (such as navigation, login, and sign-up processes) work as expected.
+
+Improve Test Maintenance: Utilize a structured approach to separate web page interaction logic from test scripts, making it easier to maintain and extend as the application evolves.
+
+Enhance Test Reusability: Promote reusability of code for interactions with page elements, reducing duplication across test scripts.
+
+Support Data-Driven Testing: Leverage test data (stored in TestData/data.py) to run multiple test scenarios with different input sets to verify robustness and edge case handling.
+
+Increase Test Coverage: Automate critical paths such as user authentication, button functionality, and error handling to ensure high test coverage across essential user flows.
+
+Ensure Browser Compatibility: Run tests across multiple browsers (e.g., Chrome, Firefox, Edge, Safari) to validate cross-browser compatibility and identify potential issues.
+
+Enable Continuous Testing: Integrate with continuous integration (CI) tools to run tests automatically, ensuring that new changes do not introduce regressions or break existing functionality.
+
+By achieving these objectives, this project aims to create a robust, maintainable, and scalable test automation framework for the GUVI platform.
+
+
+
 Preconditions:
-This explains what conditions must exist before tests run.
-Example:
-Preconditions
+
 • Python must be installed
 • Chrome browser must be installed
 • Internet connection required
@@ -20,6 +41,7 @@ Preconditions
 
 
 Test Environment:
+
 Operating System : Windows 11
 Browser          : Google Chrome
 Automation Tool  : Selenium WebDriver
@@ -29,26 +51,31 @@ IDE              : PyCharm
 
 
 Technologies Used:
-Tool                    	Purpose
-Python               	Programming language
-Selenium	            Browser automation
-PyTest	                Test execution framework
-POM	                    Framework design pattern
-WebDriver Manager	    Browser driver management
 
-TABLE OF CONTENT:
-1.Project structure
-2.Detailed Project Architecture
-3.Project feature 
-4.Project Usage
-5.UI under test
-6.Test design techniques
-7.Test cases covered in project
-8.Advantages of this framework
-9.CI/CD integration
-10.Future Enhancements
+Tool                                  	Purpose
+Python                        	Programming language
+Selenium	                    Browser automation
+PyTest	                        Test execution framework
+POM	                             Framework design pattern
+WebDriver Manager	             Browser driver management
 
-Project Structure:
+## TABLE OF CONTENT:
+
+1.[Project structure](#project-structure)
+2.[Detailed Project Architecture](#detailed-project-architecture)
+3.[Project feature ](#project-feature)
+4.[Project Usage](#project-usage)
+5.[UI under test](#ui-under-test)
+6.[Test design techniques](#test-design-techniques)
+7.[Test cases covered in project](#test-cases-covered-in-projects)
+8.[Advantages of this framework](#advantages-of-this-framework)
+9.[CI/CD integration](#ci/cd-integration)
+10.[Future Enhancements](#future-enhancements)
+11.[Test Report link](#test-report-link)
+12.[Project Automation video link](#project-auntomation-video-link)
+
+## Project Structure:
+
 GUVI_Automation_Project
 │
 ├── pages
@@ -99,7 +126,7 @@ Detailed explanation is given under Architecture.
 
 -----------------------------------
 
-Detailed Project Architecture:
+## Detailed Project Architecture:
 GUVI Web Automation Framework
 The automation framework is designed using the Page Object Model (POM) architecture with Selenium + Python + PyTest.
 
@@ -134,7 +161,9 @@ Automation Framework Architecture Diagram:
                  │  test_navigation.py         │
                  │  test_dashboard.py          │
                  └──────────────┬──────────────┘
-                                │
+                     
+
+           │
                                 ▼
                  ┌─────────────────────────────┐
                  │      Page Object Layer      │
@@ -145,7 +174,9 @@ Automation Framework Architecture Diagram:
                  │  register_page.py           │
                  │  dashboard_page.py          │
                  └──────────────┬──────────────┘
-                                │
+              
+
+                  │
                                 ▼
                  ┌─────────────────────────────┐
                  │        Base Layer           │
@@ -157,7 +188,9 @@ Automation Framework Architecture Diagram:
                  │  get_text()                 │
                  │  is_visible()               │
                  └──────────────┬──────────────┘
-                                │
+                  
+
+              │
                                 ▼
                  ┌─────────────────────────────┐
                  │        Utility Layer        │
@@ -166,14 +199,18 @@ Automation Framework Architecture Diagram:
                  │  logger.py                  │
                  │  config_reader.py           │
                  └──────────────┬──────────────┘
-                                │
+                 
+
+               │
                                 ▼
                  ┌─────────────────────────────┐
                  │     Selenium WebDriver      │
                  │                             │
                  │ ChromeDriver / FirefoxDriver│
                  └──────────────┬──────────────┘
-                                │
+                   
+
+             │
                                 ▼
                  ┌─────────────────────────────┐
                  │           Browser           │
@@ -204,6 +241,7 @@ Handles communication between automation scripts and the browser.
 The actual browser where test execution takes place.
 
 Explanation of Each Architecture Layer:
+
 1️⃣ Test Layer (Top Layer)
 This layer contains the actual automation test cases.
 test_login.py
@@ -368,7 +406,7 @@ submit form
 
 ---------------------------------------------
 
-Project Features:
+## Project Features:
 Automation Framework Features
 
 1️⃣ Page Object Model (POM) design
@@ -416,7 +454,7 @@ Config
 
 -----------
 
-Project Usage:
+## Project Usage:
 Step 1 — Install Dependencies
 pip install -r requirements.txt
 
@@ -441,7 +479,7 @@ logs/  --- Can be seen as 'automation log'
 
 -------------------------------------
 
-UI Under Test:
+## UI Under Test:
 The automation project tests core UI components of the GUVI website.
 Main UI Pages Tested
 
@@ -462,7 +500,7 @@ Main UI Pages Tested
 10.Example UI Validation
 
 -----------------------------------------------
-Test Design Techniques Used:
+## Test Design Techniques Used:
 
 This project uses **Black Box Testing techniques**.
 
@@ -521,7 +559,7 @@ Expected -Login fails
 
 -------------------------------------------
 
-Test Cases Covered in Project:
+## Test Cases Covered in Project:
 
  manual + automation tests include:
 
@@ -533,15 +571,15 @@ TC04	Verify signup button navigation
 TC05	Verify menu navigation
 TC06	Verify valid login
 TC07	Verify invalid login
-TC08	Verify invalid login(2)
-TC09	Verify invalid login with empty field
-TC10    Menu items visible
-TC11	Chatbot visible
-TC12   Verify logout functionality
+TC07	Verify invalid login(2)
+TC08	Verify invalid login with empty field
+TC09    Menu items visible
+TC10	Chatbot visible
+TC11   Verify logout functionality
 
 ------------------------------------
 
- Advantages of This Framework:
+## Advantages of This Framework:
 1.Reusable automation code
 2.Maintainable project structure
 3.Easy debugging using logs
@@ -549,7 +587,7 @@ TC12   Verify logout functionality
 5.Scalable framework for future test cases
 
 -------------
-CI/CD Integration:
+## CI/CD Integration:
 The automation framework supports CI integration to enable automated test execution.
 The framework can be integrated with CI/CD tools such as:
 GitHub Actions
@@ -569,10 +607,12 @@ Test report generated
 
 ---------------------------------------
 
-Future Enhancements:
+## Future Enhancements:
 • Integrate CI/CD pipeline using Jenkins
 • Add cross-browser testing
 • Implement parallel test execution
 • Integrate with Docker for containerized testing
 
-Test Report link - 
+## Test Report link - 
+
+## Project Automation video link

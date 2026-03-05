@@ -1,0 +1,24 @@
+[32mINFO    [0m root:conftest.py:24 ========== TEST STARTED ==========
+[32mINFO    [0m test_login_page:test_login_page.py:18 TEST CASE STARTED: Verify login with valid credentials
+[32mINFO    [0m test_login_page:test_login_page.py:22 Creating HomePage object
+[32mINFO    [0m test_login_page:test_login_page.py:28 Clicking login button on homepage
+[32mINFO    [0m pages.home_page:home_page.py:37 Clicking Login button on Home page
+[32mINFO    [0m HomePage:base_page.py:79 Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+[32mINFO    [0m test_login_page:test_login_page.py:34 Creating LoginPage object
+[32mINFO    [0m test_login_page:test_login_page.py:40 Entering valid login credentials
+[32mINFO    [0m LoginPage:login_page.py:49 Starting login process with provided credentials
+[32mINFO    [0m LoginPage:login_page.py:24 Entering email into login email field
+[32mINFO    [0m LoginPage:base_page.py:86 Entering text into element: ('id', 'email')
+[32mINFO    [0m LoginPage:base_page.py:62 Waiting for visibility of element: ('id', 'email')
+[32mINFO    [0m LoginPage:login_page.py:33 Entering password into login password field
+[32mINFO    [0m LoginPage:base_page.py:86 Entering text into element: ('id', 'password')
+[32mINFO    [0m LoginPage:base_page.py:62 Waiting for visibility of element: ('id', 'password')
+[32mINFO    [0m LoginPage:login_page.py:41 Clicking login button
+[32mINFO    [0m LoginPage:base_page.py:79 Clicking element: ('id', 'login-btn')
+[32mINFO    [0m LoginPage:login_page.py:61 Login form submitted
+[32mINFO    [0m test_login_page:test_login_page.py:46 Creating DashboardPage object after successful login
+[32mINFO    [0m test_login_page:test_login_page.py:51 Verifying that dashboard page is loaded
+[32mINFO    [0m DashboardPage:dashboard_page.py:22 Checking whether Dashboard page is loaded
+[32mINFO    [0m DashboardPage:dashboard_page.py:28 Dashboard page loaded successfully
+[32mINFO    [0m test_login_page:test_login_page.py:56 TEST PASSED: Login with valid credentials successful
+[32mINFO    [0m root:conftest.py:49 ========== TEST FINISHED ==========

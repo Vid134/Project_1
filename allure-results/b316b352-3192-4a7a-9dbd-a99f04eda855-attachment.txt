@@ -1,0 +1,34 @@
+[32mINFO    [0m root:conftest.py:24 ========== TEST STARTED ==========
+[32mINFO    [0m test_logout_page:test_logout_page.py:14 TEST STARTED: Logout functionality test
+[32mINFO    [0m test_logout_page:test_logout_page.py:19 Clicking login button on homepage
+[32mINFO    [0m pages.home_page:home_page.py:37 Clicking Login button on Home page
+[32mINFO    [0m HomePage:base_page.py:79 Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+[32mINFO    [0m test_logout_page:test_logout_page.py:24 Entering valid login credentials
+[32mINFO    [0m LoginPage:login_page.py:49 Starting login process with provided credentials
+[32mINFO    [0m LoginPage:login_page.py:24 Entering email into login email field
+[32mINFO    [0m LoginPage:base_page.py:86 Entering text into element: ('id', 'email')
+[32mINFO    [0m LoginPage:base_page.py:62 Waiting for visibility of element: ('id', 'email')
+[32mINFO    [0m LoginPage:login_page.py:33 Entering password into login password field
+[32mINFO    [0m LoginPage:base_page.py:86 Entering text into element: ('id', 'password')
+[32mINFO    [0m LoginPage:base_page.py:62 Waiting for visibility of element: ('id', 'password')
+[32mINFO    [0m LoginPage:login_page.py:41 Clicking login button
+[32mINFO    [0m LoginPage:base_page.py:79 Clicking element: ('id', 'login-btn')
+[32mINFO    [0m LoginPage:login_page.py:61 Login form submitted
+[32mINFO    [0m test_logout_page:test_logout_page.py:32 Login submitted, navigating to dashboard
+[32mINFO    [0m test_logout_page:test_logout_page.py:37 Verifying that Dashboard is loaded succesfull
+[32mINFO    [0m DashboardPage:dashboard_page.py:22 Checking whether Dashboard page is loaded
+[32mINFO    [0m DashboardPage:dashboard_page.py:28 Dashboard page loaded successfully
+[32mINFO    [0m test_logout_page:test_logout_page.py:42 Dashboard loaded succesfully
+[32mINFO    [0m test_logout_page:test_logout_page.py:44 Opening profile dropdown menu
+[32mINFO    [0m DashboardPage:dashboard_page.py:35 Attempting to click Profile icon
+[32mINFO    [0m DashboardPage:dashboard_page.py:48 Profile dropdown is visible
+[32mINFO    [0m test_logout_page:test_logout_page.py:49 Waiting for dropdown menu to appear
+[32mINFO    [0m test_logout_page:test_logout_page.py:54 Clicking logout option
+[32mINFO    [0m DashboardPage:dashboard_page.py:53 Attempting to click Logout button
+[32mINFO    [0m DashboardPage:dashboard_page.py:65 Logout click executed successfully
+[32mINFO    [0m test_logout_page:test_logout_page.py:59 Verifying user is logged out
+[32mINFO    [0m HomePage:home_page.py:111 Verifying visibility of Login button on homepage
+[32mINFO    [0m HomePage:base_page.py:62 Waiting for visibility of element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+[32mINFO    [0m HomePage:home_page.py:118 Login button is visible on homepage
+[32mINFO    [0m test_logout_page:test_logout_page.py:64 Test Passed: Logout functionality working correctly
+[32mINFO    [0m root:conftest.py:49 ========== TEST FINISHED ==========

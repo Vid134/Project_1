@@ -1,0 +1,11 @@
+[32mINFO    [0m root:conftest.py:24 ========== TEST STARTED ==========
+[32mINFO    [0m test_register_page:test_register_page.py:13 TEST STARTED: Navigation to Register page
+[32mINFO    [0m test_register_page:test_register_page.py:19 Clicking Signup button from Home page
+[32mINFO    [0m pages.home_page:home_page.py:61 Clicking Signup button on Home page
+[32mINFO    [0m HomePage:base_page.py:79 Clicking element: ('xpath', "//button[text()='Sign up']")
+[32mINFO    [0m test_register_page:test_register_page.py:29 Verifying Register page visibility
+[32mINFO    [0m RegisterPage:register_page.py:16 Checking whether Register page is loaded
+[32mINFO    [0m RegisterPage:base_page.py:62 Waiting for visibility of element: ('xpath', "//h2[contains(text(),'Sign Up')]")
+[32mINFO    [0m RegisterPage:register_page.py:23 Register page loaded successfully
+[32mINFO    [0m test_register_page:test_register_page.py:35 TEST PASSED: Navigation to Register page
+[32mINFO    [0m root:conftest.py:49 ========== TEST FINISHED ==========

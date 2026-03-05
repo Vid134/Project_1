@@ -1,0 +1,18 @@
+{
+  "valid_login": {
+    "email": "vidhya.venkruk@gmail.com",
+    "password": "Ganesha@2021"
+  },
+  "invalid_login_1": {
+    "email": "invalid@gmail.com",
+    "password": "Ganesha@2021"
+  },
+   "invalid_login_2": {
+    "email": "vidhya.venkruk@gmail.com",
+    "password": "WrongPassword"
+  },
+  "invalid_login_empty_field": {
+    "email": "",
+    "password": "Ganesha@2021"
+  }
+}

@@ -1,0 +1,13 @@
+[32mINFO    [0m root:conftest.py:24 ========== TEST STARTED ==========
+[32mINFO    [0m test_home_page:test_home_page.py:49 TEST STARTED: Login button visibility & clickability
+[32mINFO    [0m test_home_page:test_home_page.py:54 Checking if Login button is visible
+[32mINFO    [0m pages.home_page:home_page.py:31 Checking visibility of Login button on Home page
+[32mINFO    [0m HomePage:base_page.py:62 Waiting for visibility of element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+[32mINFO    [0m test_home_page:test_home_page.py:59 Clicking Login button
+[32mINFO    [0m pages.home_page:home_page.py:37 Clicking Login button on Home page
+[32mINFO    [0m HomePage:base_page.py:79 Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+[32mINFO    [0m test_home_page:test_home_page.py:64 Verifying Login page is opened
+[32mINFO    [0m pages.home_page:home_page.py:43 Verifying whether Login page is opened
+[32mINFO    [0m HomePage:base_page.py:62 Waiting for visibility of element: ('xpath', "//h2[text()='Login']")
+[32mINFO    [0m test_home_page:test_home_page.py:69 TEST PASSED: Login button works correctly
+[32mINFO    [0m root:conftest.py:49 ========== TEST FINISHED ==========

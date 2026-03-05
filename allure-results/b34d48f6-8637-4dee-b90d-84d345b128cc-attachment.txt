@@ -1,0 +1,4 @@
+2026-03-05 12:02:41,161 - HomePage - INFO - Waiting for visibility of element: ('xpath', "//button[text()='Sign up']")
+2026-03-05 12:02:41,161 - HomePage - INFO - Waiting for visibility of element: ('xpath', "//button[text()='Sign up']")
+2026-03-05 12:02:41,229 - HomePage - INFO - Clicking element: ('xpath', "//button[text()='Sign up']")
+2026-03-05 12:02:41,229 - HomePage - INFO - Clicking element: ('xpath', "//button[text()='Sign up']")

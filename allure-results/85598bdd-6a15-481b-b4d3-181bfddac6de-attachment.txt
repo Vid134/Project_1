@@ -1,0 +1,6 @@
+[32mINFO    [0m root:conftest.py:24 ========== TEST STARTED ==========
+[32mINFO    [0m test_home_page:test_home_page.py:32 TEST STARTED: Validate homepage title
+[32mINFO    [0m test_home_page:test_home_page.py:36 Expected title: HCL GUVI | Learn to code in your native language
+[32mINFO    [0m test_home_page:test_home_page.py:37 Actual title: HCL GUVI | Learn to code in your native language
+[32mINFO    [0m test_home_page:test_home_page.py:41 TEST PASSED: Homepage title is correct
+[32mINFO    [0m root:conftest.py:49 ========== TEST FINISHED ==========

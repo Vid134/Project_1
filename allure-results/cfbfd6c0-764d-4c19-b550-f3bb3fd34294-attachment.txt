@@ -1,0 +1,13 @@
+2026-03-05 12:04:00,453 - HomePage - INFO - Clicking element: ('xpath', "//button[text()='Sign up']")
+2026-03-05 12:04:00,453 - HomePage - INFO - Clicking element: ('xpath', "//button[text()='Sign up']")
+2026-03-05 12:04:00,453 - HomePage - INFO - Clicking element: ('xpath', "//button[text()='Sign up']")
+2026-03-05 12:04:00,453 - HomePage - INFO - Clicking element: ('xpath', "//button[text()='Sign up']")
+2026-03-05 12:04:00,453 - HomePage - INFO - Clicking element: ('xpath', "//button[text()='Sign up']")
+2026-03-05 12:04:00,453 - HomePage - INFO - Clicking element: ('xpath', "//button[text()='Sign up']")
+2026-03-05 12:04:00,453 - HomePage - INFO - Clicking element: ('xpath', "//button[text()='Sign up']")
+2026-03-05 12:04:00,453 - HomePage - INFO - Clicking element: ('xpath', "//button[text()='Sign up']")
+2026-03-05 12:04:00,453 - HomePage - INFO - Clicking element: ('xpath', "//button[text()='Sign up']")
+2026-03-05 12:04:00,453 - HomePage - INFO - Clicking element: ('xpath', "//button[text()='Sign up']")
+2026-03-05 12:04:00,778 - RegisterPage - INFO - Checking whether Register page is loaded
+2026-03-05 12:04:00,779 - RegisterPage - INFO - Waiting for visibility of element: ('xpath', "//h2[contains(text(),'Sign Up')]")
+2026-03-05 12:04:39,311 - RegisterPage - INFO - Register page loaded successfully

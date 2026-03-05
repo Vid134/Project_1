@@ -1,0 +1,6 @@
+[32mINFO    [0m root:conftest.py:24 ========== TEST STARTED ==========
+[32mINFO    [0m test_home_page:test_home_page.py:13 TEST STARTED: Validate homepage URL
+[32mINFO    [0m test_home_page:test_home_page.py:17 Expected URL: https://www.guvi.in/
+[32mINFO    [0m test_home_page:test_home_page.py:18 Actual URL: https://www.guvi.in/
+[32mINFO    [0m test_home_page:test_home_page.py:24 TEST PASSED: Homepage URL is correct
+[32mINFO    [0m root:conftest.py:49 ========== TEST FINISHED ==========

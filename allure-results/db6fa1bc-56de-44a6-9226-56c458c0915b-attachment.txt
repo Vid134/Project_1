@@ -1,0 +1,98 @@
+2026-03-05 12:03:42,613 - HomePage - INFO - Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:42,613 - HomePage - INFO - Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:42,613 - HomePage - INFO - Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:42,613 - HomePage - INFO - Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:42,613 - HomePage - INFO - Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:42,613 - HomePage - INFO - Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:42,613 - HomePage - INFO - Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:42,613 - HomePage - INFO - Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:42,613 - HomePage - INFO - Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:43,953 - LoginPage - INFO - Starting login process with provided credentials
+2026-03-05 12:03:43,953 - LoginPage - INFO - Starting login process with provided credentials
+2026-03-05 12:03:43,953 - LoginPage - INFO - Starting login process with provided credentials
+2026-03-05 12:03:43,953 - LoginPage - INFO - Starting login process with provided credentials
+2026-03-05 12:03:43,953 - LoginPage - INFO - Starting login process with provided credentials
+2026-03-05 12:03:43,953 - LoginPage - INFO - Entering email into login email field
+2026-03-05 12:03:43,953 - LoginPage - INFO - Entering email into login email field
+2026-03-05 12:03:43,953 - LoginPage - INFO - Entering email into login email field
+2026-03-05 12:03:43,953 - LoginPage - INFO - Entering email into login email field
+2026-03-05 12:03:43,953 - LoginPage - INFO - Entering email into login email field
+2026-03-05 12:03:43,954 - LoginPage - INFO - Entering text into element: ('id', 'email')
+2026-03-05 12:03:43,954 - LoginPage - INFO - Entering text into element: ('id', 'email')
+2026-03-05 12:03:43,954 - LoginPage - INFO - Entering text into element: ('id', 'email')
+2026-03-05 12:03:43,954 - LoginPage - INFO - Entering text into element: ('id', 'email')
+2026-03-05 12:03:43,954 - LoginPage - INFO - Entering text into element: ('id', 'email')
+2026-03-05 12:03:43,954 - LoginPage - INFO - Waiting for visibility of element: ('id', 'email')
+2026-03-05 12:03:43,954 - LoginPage - INFO - Waiting for visibility of element: ('id', 'email')
+2026-03-05 12:03:43,954 - LoginPage - INFO - Waiting for visibility of element: ('id', 'email')
+2026-03-05 12:03:43,954 - LoginPage - INFO - Waiting for visibility of element: ('id', 'email')
+2026-03-05 12:03:43,954 - LoginPage - INFO - Waiting for visibility of element: ('id', 'email')
+2026-03-05 12:03:46,574 - LoginPage - INFO - Entering password into login password field
+2026-03-05 12:03:46,574 - LoginPage - INFO - Entering password into login password field
+2026-03-05 12:03:46,574 - LoginPage - INFO - Entering password into login password field
+2026-03-05 12:03:46,574 - LoginPage - INFO - Entering password into login password field
+2026-03-05 12:03:46,574 - LoginPage - INFO - Entering password into login password field
+2026-03-05 12:03:46,574 - LoginPage - INFO - Entering text into element: ('id', 'password')
+2026-03-05 12:03:46,574 - LoginPage - INFO - Entering text into element: ('id', 'password')
+2026-03-05 12:03:46,574 - LoginPage - INFO - Entering text into element: ('id', 'password')
+2026-03-05 12:03:46,574 - LoginPage - INFO - Entering text into element: ('id', 'password')
+2026-03-05 12:03:46,574 - LoginPage - INFO - Entering text into element: ('id', 'password')
+2026-03-05 12:03:46,575 - LoginPage - INFO - Waiting for visibility of element: ('id', 'password')
+2026-03-05 12:03:46,575 - LoginPage - INFO - Waiting for visibility of element: ('id', 'password')
+2026-03-05 12:03:46,575 - LoginPage - INFO - Waiting for visibility of element: ('id', 'password')
+2026-03-05 12:03:46,575 - LoginPage - INFO - Waiting for visibility of element: ('id', 'password')
+2026-03-05 12:03:46,575 - LoginPage - INFO - Waiting for visibility of element: ('id', 'password')
+2026-03-05 12:03:46,840 - LoginPage - INFO - Clicking login button
+2026-03-05 12:03:46,840 - LoginPage - INFO - Clicking login button
+2026-03-05 12:03:46,840 - LoginPage - INFO - Clicking login button
+2026-03-05 12:03:46,840 - LoginPage - INFO - Clicking login button
+2026-03-05 12:03:46,840 - LoginPage - INFO - Clicking login button
+2026-03-05 12:03:46,841 - LoginPage - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 12:03:46,841 - LoginPage - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 12:03:46,841 - LoginPage - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 12:03:46,841 - LoginPage - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 12:03:46,841 - LoginPage - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 12:03:47,078 - LoginPage - INFO - Login form submitted
+2026-03-05 12:03:47,078 - LoginPage - INFO - Login form submitted
+2026-03-05 12:03:47,078 - LoginPage - INFO - Login form submitted
+2026-03-05 12:03:47,078 - LoginPage - INFO - Login form submitted
+2026-03-05 12:03:47,078 - LoginPage - INFO - Login form submitted
+2026-03-05 12:03:47,079 - DashboardPage - INFO - Checking whether Dashboard page is loaded
+2026-03-05 12:03:47,079 - DashboardPage - INFO - Checking whether Dashboard page is loaded
+2026-03-05 12:03:48,219 - DashboardPage - INFO - Dashboard page loaded successfully
+2026-03-05 12:03:48,219 - DashboardPage - INFO - Dashboard page loaded successfully
+2026-03-05 12:03:48,220 - DashboardPage - INFO - Attempting to click Profile icon
+2026-03-05 12:03:48,220 - DashboardPage - INFO - Attempting to click Profile icon
+2026-03-05 12:03:48,827 - DashboardPage - INFO - Profile dropdown is visible
+2026-03-05 12:03:48,827 - DashboardPage - INFO - Profile dropdown is visible
+2026-03-05 12:03:53,862 - DashboardPage - INFO - Attempting to click Logout button
+2026-03-05 12:03:53,862 - DashboardPage - INFO - Attempting to click Logout button
+2026-03-05 12:03:54,092 - DashboardPage - INFO - Logout click executed successfully
+2026-03-05 12:03:54,092 - DashboardPage - INFO - Logout click executed successfully
+2026-03-05 12:03:54,093 - HomePage - INFO - Verifying visibility of Login button on homepage
+2026-03-05 12:03:54,093 - HomePage - INFO - Verifying visibility of Login button on homepage
+2026-03-05 12:03:54,093 - HomePage - INFO - Verifying visibility of Login button on homepage
+2026-03-05 12:03:54,093 - HomePage - INFO - Verifying visibility of Login button on homepage
+2026-03-05 12:03:54,093 - HomePage - INFO - Verifying visibility of Login button on homepage
+2026-03-05 12:03:54,093 - HomePage - INFO - Verifying visibility of Login button on homepage
+2026-03-05 12:03:54,093 - HomePage - INFO - Verifying visibility of Login button on homepage
+2026-03-05 12:03:54,093 - HomePage - INFO - Verifying visibility of Login button on homepage
+2026-03-05 12:03:54,093 - HomePage - INFO - Verifying visibility of Login button on homepage
+2026-03-05 12:03:54,094 - HomePage - INFO - Waiting for visibility of element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:54,094 - HomePage - INFO - Waiting for visibility of element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:54,094 - HomePage - INFO - Waiting for visibility of element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:54,094 - HomePage - INFO - Waiting for visibility of element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:54,094 - HomePage - INFO - Waiting for visibility of element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:54,094 - HomePage - INFO - Waiting for visibility of element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:54,094 - HomePage - INFO - Waiting for visibility of element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:54,094 - HomePage - INFO - Waiting for visibility of element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:54,094 - HomePage - INFO - Waiting for visibility of element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:55,066 - HomePage - INFO - Login button is visible on homepage
+2026-03-05 12:03:55,066 - HomePage - INFO - Login button is visible on homepage
+2026-03-05 12:03:55,066 - HomePage - INFO - Login button is visible on homepage
+2026-03-05 12:03:55,066 - HomePage - INFO - Login button is visible on homepage
+2026-03-05 12:03:55,066 - HomePage - INFO - Login button is visible on homepage
+2026-03-05 12:03:55,066 - HomePage - INFO - Login button is visible on homepage
+2026-03-05 12:03:55,066 - HomePage - INFO - Login button is visible on homepage
+2026-03-05 12:03:55,066 - HomePage - INFO - Login button is visible on homepage
+2026-03-05 12:03:55,066 - HomePage - INFO - Login button is visible on homepage

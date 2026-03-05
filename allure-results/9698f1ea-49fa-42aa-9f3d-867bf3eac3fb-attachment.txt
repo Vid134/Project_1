@@ -1,0 +1,6 @@
+2026-03-05 12:02:50,147 - HomePage - INFO - Verifying visibility of main menu items: Courses, LIVE Classes, Practice
+2026-03-05 12:02:50,147 - HomePage - INFO - Verifying visibility of main menu items: Courses, LIVE Classes, Practice
+2026-03-05 12:02:50,147 - HomePage - INFO - Verifying visibility of main menu items: Courses, LIVE Classes, Practice
+2026-03-05 12:02:50,241 - HomePage - INFO - All main menu items are visible on the homepage
+2026-03-05 12:02:50,241 - HomePage - INFO - All main menu items are visible on the homepage
+2026-03-05 12:02:50,241 - HomePage - INFO - All main menu items are visible on the homepage

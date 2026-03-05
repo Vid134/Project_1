@@ -1,0 +1,24 @@
+[32mINFO    [0m root:conftest.py:24 ========== TEST STARTED ==========
+[32mINFO    [0m test_login_page:test_login_page.py:66 TEST CASE STARTED: Verify login with invalid credentials
+[32mINFO    [0m test_login_page:test_login_page.py:69 Creating HomePage object
+[32mINFO    [0m test_login_page:test_login_page.py:75 Clicking login button on homepage
+[32mINFO    [0m pages.home_page:home_page.py:37 Clicking Login button on Home page
+[32mINFO    [0m HomePage:base_page.py:79 Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+[32mINFO    [0m test_login_page:test_login_page.py:81 Creating LoginPage object
+[32mINFO    [0m test_login_page:test_login_page.py:87 Entering invalid login credentials
+[32mINFO    [0m LoginPage:login_page.py:49 Starting login process with provided credentials
+[32mINFO    [0m LoginPage:login_page.py:24 Entering email into login email field
+[32mINFO    [0m LoginPage:base_page.py:86 Entering text into element: ('id', 'email')
+[32mINFO    [0m LoginPage:base_page.py:62 Waiting for visibility of element: ('id', 'email')
+[32mINFO    [0m LoginPage:login_page.py:33 Entering password into login password field
+[32mINFO    [0m LoginPage:base_page.py:86 Entering text into element: ('id', 'password')
+[32mINFO    [0m LoginPage:base_page.py:62 Waiting for visibility of element: ('id', 'password')
+[32mINFO    [0m LoginPage:login_page.py:41 Clicking login button
+[32mINFO    [0m LoginPage:base_page.py:79 Clicking element: ('id', 'login-btn')
+[32mINFO    [0m LoginPage:login_page.py:61 Login form submitted
+[32mINFO    [0m test_login_page:test_login_page.py:94 Fetching error message displayed for invalid login
+[32mINFO    [0m LoginPage:login_page.py:66 Fetching login error message for invalid login attempt
+[32mINFO    [0m LoginPage:base_page.py:62 Waiting for visibility of element: ('class name', 'invalid-feedback')
+[32mINFO    [0m test_login_page:test_login_page.py:100 Verifying error message is displayed for invalid login
+[32mINFO    [0m test_login_page:test_login_page.py:105 TEST PASSED: Error message displayed for invalid login
+[32mINFO    [0m root:conftest.py:49 ========== TEST FINISHED ==========

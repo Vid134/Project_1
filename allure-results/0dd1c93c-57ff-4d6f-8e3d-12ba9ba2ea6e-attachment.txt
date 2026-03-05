@@ -1,0 +1,3 @@
+2026-03-05 12:02:32,232 - HomePage - INFO - Waiting for visibility of element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:02:32,295 - HomePage - INFO - Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:02:32,575 - HomePage - INFO - Waiting for visibility of element: ('xpath', "//h2[text()='Login']")

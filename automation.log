@@ -1,0 +1,191 @@
+2026-03-05 12:02:17,373 - root - INFO - ========== TEST STARTED ==========
+2026-03-05 12:02:19,440 - test_home_page - INFO - TEST STARTED: Validate homepage URL
+2026-03-05 12:02:19,440 - test_home_page - INFO - Expected URL: https://www.guvi.in/
+2026-03-05 12:02:20,862 - test_home_page - INFO - Actual URL: https://www.guvi.in/
+2026-03-05 12:02:20,875 - test_home_page - INFO - TEST PASSED: Homepage URL is correct
+2026-03-05 12:02:23,112 - root - INFO - ========== TEST FINISHED ==========
+2026-03-05 12:02:23,130 - root - INFO - ========== TEST STARTED ==========
+2026-03-05 12:02:26,581 - test_home_page - INFO - TEST STARTED: Validate homepage title
+2026-03-05 12:02:26,582 - test_home_page - INFO - Expected title: HCL GUVI | Learn to code in your native language
+2026-03-05 12:02:26,592 - test_home_page - INFO - Actual title: HCL GUVI | Learn to code in your native language
+2026-03-05 12:02:26,596 - test_home_page - INFO - TEST PASSED: Homepage title is correct
+2026-03-05 12:02:28,823 - root - INFO - ========== TEST FINISHED ==========
+2026-03-05 12:02:28,831 - root - INFO - ========== TEST STARTED ==========
+2026-03-05 12:02:32,231 - test_home_page - INFO - TEST STARTED: Login button visibility & clickability
+2026-03-05 12:02:32,231 - test_home_page - INFO - Checking if Login button is visible
+2026-03-05 12:02:32,232 - pages.home_page - INFO - Checking visibility of Login button on Home page
+2026-03-05 12:02:32,232 - HomePage - INFO - Waiting for visibility of element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:02:32,294 - test_home_page - INFO - Clicking Login button
+2026-03-05 12:02:32,294 - pages.home_page - INFO - Clicking Login button on Home page
+2026-03-05 12:02:32,295 - HomePage - INFO - Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:02:32,575 - test_home_page - INFO - Verifying Login page is opened
+2026-03-05 12:02:32,575 - pages.home_page - INFO - Verifying whether Login page is opened
+2026-03-05 12:02:32,575 - HomePage - INFO - Waiting for visibility of element: ('xpath', "//h2[text()='Login']")
+2026-03-05 12:02:36,037 - test_home_page - INFO - TEST PASSED: Login button works correctly
+2026-03-05 12:02:38,364 - root - INFO - ========== TEST FINISHED ==========
+2026-03-05 12:02:38,371 - root - INFO - ========== TEST STARTED ==========
+2026-03-05 12:02:41,160 - test_home_page - INFO - TEST STARTED: Signup button visibility & clickability
+2026-03-05 12:02:41,161 - test_home_page - INFO - Checking if Signup button is visible
+2026-03-05 12:02:41,161 - pages.home_page - INFO - Checking visibility of Signup button on Home page
+2026-03-05 12:02:41,161 - HomePage - INFO - Waiting for visibility of element: ('xpath', "//button[text()='Sign up']")
+2026-03-05 12:02:41,229 - test_home_page - INFO - Clicking Signup button
+2026-03-05 12:02:41,229 - pages.home_page - INFO - Clicking Signup button on Home page
+2026-03-05 12:02:41,229 - HomePage - INFO - Clicking element: ('xpath', "//button[text()='Sign up']")
+2026-03-05 12:02:41,623 - test_home_page - INFO - Verifying Signup page is opened
+2026-03-05 12:02:41,623 - pages.home_page - INFO - Verifying whether Signup page is opened
+2026-03-05 12:02:44,500 - test_home_page - INFO - TEST PASSED: Signup button works correctly
+2026-03-05 12:02:46,850 - root - INFO - ========== TEST FINISHED ==========
+2026-03-05 12:02:46,857 - root - INFO - ========== TEST STARTED ==========
+2026-03-05 12:02:50,146 - test_home_page - INFO - TEST STARTED: Menu items visibility
+2026-03-05 12:02:50,146 - test_home_page - INFO - Checking Courses, LIVE Classes, Practice menus
+2026-03-05 12:02:50,147 - HomePage - INFO - Verifying visibility of main menu items: Courses, LIVE Classes, Practice
+2026-03-05 12:02:50,241 - HomePage - INFO - All main menu items are visible on the homepage
+2026-03-05 12:02:50,242 - test_home_page - INFO - TEST PASSED: Menu items are visible
+2026-03-05 12:02:52,514 - root - INFO - ========== TEST FINISHED ==========
+2026-03-05 12:02:52,521 - root - INFO - ========== TEST STARTED ==========
+2026-03-05 12:02:55,292 - test_home_page - INFO - TEST STARTED: Dobby assistant visibility
+2026-03-05 12:02:55,292 - test_home_page - INFO - Checking Dobby assistant icon
+2026-03-05 12:02:55,292 - HomePage - INFO - Verifying visibility of Dobby assistant icon on homepage
+2026-03-05 12:03:00,751 - HomePage - INFO - Dobby assistant icon is visible on the homepage
+2026-03-05 12:03:00,751 - test_home_page - INFO - TEST PASSED: Dobby assistant icon is visible
+2026-03-05 12:03:03,090 - root - INFO - ========== TEST FINISHED ==========
+2026-03-05 12:03:03,097 - root - INFO - ========== TEST STARTED ==========
+2026-03-05 12:03:05,902 - test_login_page - INFO - TEST CASE STARTED: Verify login with valid credentials
+2026-03-05 12:03:05,903 - test_login_page - INFO - Creating HomePage object
+2026-03-05 12:03:05,903 - test_login_page - INFO - Clicking login button on homepage
+2026-03-05 12:03:05,903 - pages.home_page - INFO - Clicking Login button on Home page
+2026-03-05 12:03:05,903 - HomePage - INFO - Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:06,299 - test_login_page - INFO - Creating LoginPage object
+2026-03-05 12:03:06,299 - test_login_page - INFO - Entering valid login credentials
+2026-03-05 12:03:06,299 - LoginPage - INFO - Starting login process with provided credentials
+2026-03-05 12:03:06,299 - LoginPage - INFO - Entering email into login email field
+2026-03-05 12:03:06,300 - LoginPage - INFO - Entering text into element: ('id', 'email')
+2026-03-05 12:03:06,300 - LoginPage - INFO - Waiting for visibility of element: ('id', 'email')
+2026-03-05 12:03:09,119 - LoginPage - INFO - Entering password into login password field
+2026-03-05 12:03:09,119 - LoginPage - INFO - Entering text into element: ('id', 'password')
+2026-03-05 12:03:09,119 - LoginPage - INFO - Waiting for visibility of element: ('id', 'password')
+2026-03-05 12:03:09,392 - LoginPage - INFO - Clicking login button
+2026-03-05 12:03:09,392 - LoginPage - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 12:03:09,644 - LoginPage - INFO - Login form submitted
+2026-03-05 12:03:09,644 - test_login_page - INFO - Creating DashboardPage object after successful login
+2026-03-05 12:03:09,645 - test_login_page - INFO - Verifying that dashboard page is loaded
+2026-03-05 12:03:09,645 - DashboardPage - INFO - Checking whether Dashboard page is loaded
+2026-03-05 12:03:10,919 - DashboardPage - INFO - Dashboard page loaded successfully
+2026-03-05 12:03:10,919 - test_login_page - INFO - TEST PASSED: Login with valid credentials successful
+2026-03-05 12:03:13,266 - root - INFO - ========== TEST FINISHED ==========
+2026-03-05 12:03:13,282 - root - INFO - ========== TEST STARTED ==========
+2026-03-05 12:03:16,151 - test_login_page - INFO - TEST CASE STARTED: Verify login with invalid credentials
+2026-03-05 12:03:16,151 - test_login_page - INFO - Creating HomePage object
+2026-03-05 12:03:16,151 - test_login_page - INFO - Clicking login button on homepage
+2026-03-05 12:03:16,151 - pages.home_page - INFO - Clicking Login button on Home page
+2026-03-05 12:03:16,151 - HomePage - INFO - Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:16,581 - test_login_page - INFO - Creating LoginPage object
+2026-03-05 12:03:16,582 - test_login_page - INFO - Entering invalid login credentials
+2026-03-05 12:03:16,582 - LoginPage - INFO - Starting login process with provided credentials
+2026-03-05 12:03:16,582 - LoginPage - INFO - Entering email into login email field
+2026-03-05 12:03:16,582 - LoginPage - INFO - Entering text into element: ('id', 'email')
+2026-03-05 12:03:16,583 - LoginPage - INFO - Waiting for visibility of element: ('id', 'email')
+2026-03-05 12:03:19,432 - LoginPage - INFO - Entering password into login password field
+2026-03-05 12:03:19,433 - LoginPage - INFO - Entering text into element: ('id', 'password')
+2026-03-05 12:03:19,433 - LoginPage - INFO - Waiting for visibility of element: ('id', 'password')
+2026-03-05 12:03:19,696 - LoginPage - INFO - Clicking login button
+2026-03-05 12:03:19,696 - LoginPage - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 12:03:19,903 - LoginPage - INFO - Login form submitted
+2026-03-05 12:03:19,903 - test_login_page - INFO - Fetching error message displayed for invalid login
+2026-03-05 12:03:19,903 - LoginPage - INFO - Fetching login error message for invalid login attempt
+2026-03-05 12:03:19,904 - LoginPage - INFO - Waiting for visibility of element: ('class name', 'invalid-feedback')
+2026-03-05 12:03:20,492 - test_login_page - INFO - Verifying error message is displayed for invalid login
+2026-03-05 12:03:20,493 - test_login_page - INFO - TEST PASSED: Error message displayed for invalid login
+2026-03-05 12:03:22,806 - root - INFO - ========== TEST FINISHED ==========
+2026-03-05 12:03:22,825 - root - INFO - ========== TEST STARTED ==========
+2026-03-05 12:03:25,601 - test_login_page - INFO - TEST CASE STARTED: Verify login with invalid credentials
+2026-03-05 12:03:25,602 - test_login_page - INFO - Creating HomePage object
+2026-03-05 12:03:25,602 - test_login_page - INFO - Clicking login button on homepage
+2026-03-05 12:03:25,602 - pages.home_page - INFO - Clicking Login button on Home page
+2026-03-05 12:03:25,602 - HomePage - INFO - Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:25,979 - test_login_page - INFO - Creating LoginPage object
+2026-03-05 12:03:25,979 - test_login_page - INFO - Entering invalid login credentials
+2026-03-05 12:03:25,979 - LoginPage - INFO - Starting login process with provided credentials
+2026-03-05 12:03:25,980 - LoginPage - INFO - Entering email into login email field
+2026-03-05 12:03:25,980 - LoginPage - INFO - Entering text into element: ('id', 'email')
+2026-03-05 12:03:25,980 - LoginPage - INFO - Waiting for visibility of element: ('id', 'email')
+2026-03-05 12:03:28,734 - LoginPage - INFO - Entering password into login password field
+2026-03-05 12:03:28,734 - LoginPage - INFO - Entering text into element: ('id', 'password')
+2026-03-05 12:03:28,734 - LoginPage - INFO - Waiting for visibility of element: ('id', 'password')
+2026-03-05 12:03:28,993 - LoginPage - INFO - Clicking login button
+2026-03-05 12:03:28,994 - LoginPage - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 12:03:29,228 - LoginPage - INFO - Login form submitted
+2026-03-05 12:03:29,228 - test_login_page - INFO - Fetching error message displayed for invalid login
+2026-03-05 12:03:29,228 - LoginPage - INFO - Fetching login error message for invalid login attempt
+2026-03-05 12:03:29,228 - LoginPage - INFO - Waiting for visibility of element: ('class name', 'invalid-feedback')
+2026-03-05 12:03:29,805 - test_login_page - INFO - Verifying error message is displayed for invalid login
+2026-03-05 12:03:29,805 - test_login_page - INFO - TEST PASSED: Error message displayed for invalid login
+2026-03-05 12:03:32,102 - root - INFO - ========== TEST FINISHED ==========
+2026-03-05 12:03:32,111 - root - INFO - ========== TEST STARTED ==========
+2026-03-05 12:03:34,754 - test_login_page - INFO - TEST CASE STARTED: Verify login with empty email
+2026-03-05 12:03:34,754 - test_login_page - INFO - Creating HomePage object
+2026-03-05 12:03:34,755 - test_login_page - INFO - Clicking login button from homepage
+2026-03-05 12:03:34,755 - pages.home_page - INFO - Clicking Login button on Home page
+2026-03-05 12:03:34,755 - HomePage - INFO - Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:35,108 - test_login_page - INFO - Creating LoginPage object
+2026-03-05 12:03:35,108 - test_login_page - INFO - Attempting login with EMPTY email and valid password
+2026-03-05 12:03:35,109 - LoginPage - INFO - Starting login process with provided credentials
+2026-03-05 12:03:35,109 - LoginPage - INFO - Entering email into login email field
+2026-03-05 12:03:35,109 - LoginPage - INFO - Entering text into element: ('id', 'email')
+2026-03-05 12:03:35,109 - LoginPage - INFO - Waiting for visibility of element: ('id', 'email')
+2026-03-05 12:03:37,749 - LoginPage - INFO - Entering password into login password field
+2026-03-05 12:03:37,750 - LoginPage - INFO - Entering text into element: ('id', 'password')
+2026-03-05 12:03:37,751 - LoginPage - INFO - Waiting for visibility of element: ('id', 'password')
+2026-03-05 12:03:37,994 - LoginPage - INFO - Clicking login button
+2026-03-05 12:03:37,995 - LoginPage - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 12:03:38,282 - LoginPage - INFO - Login form submitted
+2026-03-05 12:03:38,282 - test_login_page - INFO - Verifying login failed because email field was empty
+2026-03-05 12:03:38,283 - test_login_page - INFO - Login button is still visible thereby confirming Login is unsuccessful due to empty username field
+2026-03-05 12:03:38,283 - LoginPage - INFO - Waiting for visibility of element: ('id', 'login-btn')
+2026-03-05 12:03:38,430 - test_login_page - INFO - TEST PASSED: Application correctly handled empty email login attempt
+2026-03-05 12:03:40,794 - root - INFO - ========== TEST FINISHED ==========
+2026-03-05 12:03:40,804 - root - INFO - ========== TEST STARTED ==========
+2026-03-05 12:03:42,612 - test_logout_page - INFO - TEST STARTED: Logout functionality test
+2026-03-05 12:03:42,612 - test_logout_page - INFO - Clicking login button on homepage
+2026-03-05 12:03:42,613 - pages.home_page - INFO - Clicking Login button on Home page
+2026-03-05 12:03:42,613 - HomePage - INFO - Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:43,953 - test_logout_page - INFO - Entering valid login credentials
+2026-03-05 12:03:43,953 - LoginPage - INFO - Starting login process with provided credentials
+2026-03-05 12:03:43,953 - LoginPage - INFO - Entering email into login email field
+2026-03-05 12:03:43,954 - LoginPage - INFO - Entering text into element: ('id', 'email')
+2026-03-05 12:03:43,954 - LoginPage - INFO - Waiting for visibility of element: ('id', 'email')
+2026-03-05 12:03:46,574 - LoginPage - INFO - Entering password into login password field
+2026-03-05 12:03:46,574 - LoginPage - INFO - Entering text into element: ('id', 'password')
+2026-03-05 12:03:46,575 - LoginPage - INFO - Waiting for visibility of element: ('id', 'password')
+2026-03-05 12:03:46,840 - LoginPage - INFO - Clicking login button
+2026-03-05 12:03:46,841 - LoginPage - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 12:03:47,078 - LoginPage - INFO - Login form submitted
+2026-03-05 12:03:47,079 - test_logout_page - INFO - Login submitted, navigating to dashboard
+2026-03-05 12:03:47,079 - test_logout_page - INFO - Verifying that Dashboard is loaded succesfull
+2026-03-05 12:03:47,079 - DashboardPage - INFO - Checking whether Dashboard page is loaded
+2026-03-05 12:03:48,219 - DashboardPage - INFO - Dashboard page loaded successfully
+2026-03-05 12:03:48,220 - test_logout_page - INFO - Dashboard loaded succesfully
+2026-03-05 12:03:48,220 - test_logout_page - INFO - Opening profile dropdown menu
+2026-03-05 12:03:48,220 - DashboardPage - INFO - Attempting to click Profile icon
+2026-03-05 12:03:48,827 - DashboardPage - INFO - Profile dropdown is visible
+2026-03-05 12:03:48,827 - test_logout_page - INFO - Waiting for dropdown menu to appear
+2026-03-05 12:03:53,861 - test_logout_page - INFO - Clicking logout option
+2026-03-05 12:03:53,862 - DashboardPage - INFO - Attempting to click Logout button
+2026-03-05 12:03:54,092 - DashboardPage - INFO - Logout click executed successfully
+2026-03-05 12:03:54,093 - test_logout_page - INFO - Verifying user is logged out
+2026-03-05 12:03:54,093 - HomePage - INFO - Verifying visibility of Login button on homepage
+2026-03-05 12:03:54,094 - HomePage - INFO - Waiting for visibility of element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:55,066 - HomePage - INFO - Login button is visible on homepage
+2026-03-05 12:03:55,067 - test_logout_page - INFO - Test Passed: Logout functionality working correctly
+2026-03-05 12:03:57,479 - root - INFO - ========== TEST FINISHED ==========
+2026-03-05 12:03:57,491 - root - INFO - ========== TEST STARTED ==========
+2026-03-05 12:04:00,453 - test_register_page - INFO - TEST STARTED: Navigation to Register page
+2026-03-05 12:04:00,453 - test_register_page - INFO - Clicking Signup button from Home page
+2026-03-05 12:04:00,453 - pages.home_page - INFO - Clicking Signup button on Home page
+2026-03-05 12:04:00,453 - HomePage - INFO - Clicking element: ('xpath', "//button[text()='Sign up']")
+2026-03-05 12:04:00,778 - test_register_page - INFO - Verifying Register page visibility
+2026-03-05 12:04:00,778 - RegisterPage - INFO - Checking whether Register page is loaded
+2026-03-05 12:04:00,779 - RegisterPage - INFO - Waiting for visibility of element: ('xpath', "//h2[contains(text(),'Sign Up')]")
+2026-03-05 12:04:39,311 - RegisterPage - INFO - Register page loaded successfully
+2026-03-05 12:04:39,311 - test_register_page - INFO - TEST PASSED: Navigation to Register page
+2026-03-05 12:04:41,571 - root - INFO - ========== TEST FINISHED ==========

@@ -1,0 +1,52 @@
+2026-03-05 12:03:34,755 - HomePage - INFO - Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:34,755 - HomePage - INFO - Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:34,755 - HomePage - INFO - Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:34,755 - HomePage - INFO - Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:34,755 - HomePage - INFO - Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:34,755 - HomePage - INFO - Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:34,755 - HomePage - INFO - Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:34,755 - HomePage - INFO - Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:35,109 - LoginPage - INFO - Starting login process with provided credentials
+2026-03-05 12:03:35,109 - LoginPage - INFO - Starting login process with provided credentials
+2026-03-05 12:03:35,109 - LoginPage - INFO - Starting login process with provided credentials
+2026-03-05 12:03:35,109 - LoginPage - INFO - Starting login process with provided credentials
+2026-03-05 12:03:35,109 - LoginPage - INFO - Entering email into login email field
+2026-03-05 12:03:35,109 - LoginPage - INFO - Entering email into login email field
+2026-03-05 12:03:35,109 - LoginPage - INFO - Entering email into login email field
+2026-03-05 12:03:35,109 - LoginPage - INFO - Entering email into login email field
+2026-03-05 12:03:35,109 - LoginPage - INFO - Entering text into element: ('id', 'email')
+2026-03-05 12:03:35,109 - LoginPage - INFO - Entering text into element: ('id', 'email')
+2026-03-05 12:03:35,109 - LoginPage - INFO - Entering text into element: ('id', 'email')
+2026-03-05 12:03:35,109 - LoginPage - INFO - Entering text into element: ('id', 'email')
+2026-03-05 12:03:35,109 - LoginPage - INFO - Waiting for visibility of element: ('id', 'email')
+2026-03-05 12:03:35,109 - LoginPage - INFO - Waiting for visibility of element: ('id', 'email')
+2026-03-05 12:03:35,109 - LoginPage - INFO - Waiting for visibility of element: ('id', 'email')
+2026-03-05 12:03:35,109 - LoginPage - INFO - Waiting for visibility of element: ('id', 'email')
+2026-03-05 12:03:37,749 - LoginPage - INFO - Entering password into login password field
+2026-03-05 12:03:37,749 - LoginPage - INFO - Entering password into login password field
+2026-03-05 12:03:37,749 - LoginPage - INFO - Entering password into login password field
+2026-03-05 12:03:37,749 - LoginPage - INFO - Entering password into login password field
+2026-03-05 12:03:37,750 - LoginPage - INFO - Entering text into element: ('id', 'password')
+2026-03-05 12:03:37,750 - LoginPage - INFO - Entering text into element: ('id', 'password')
+2026-03-05 12:03:37,750 - LoginPage - INFO - Entering text into element: ('id', 'password')
+2026-03-05 12:03:37,750 - LoginPage - INFO - Entering text into element: ('id', 'password')
+2026-03-05 12:03:37,751 - LoginPage - INFO - Waiting for visibility of element: ('id', 'password')
+2026-03-05 12:03:37,751 - LoginPage - INFO - Waiting for visibility of element: ('id', 'password')
+2026-03-05 12:03:37,751 - LoginPage - INFO - Waiting for visibility of element: ('id', 'password')
+2026-03-05 12:03:37,751 - LoginPage - INFO - Waiting for visibility of element: ('id', 'password')
+2026-03-05 12:03:37,994 - LoginPage - INFO - Clicking login button
+2026-03-05 12:03:37,994 - LoginPage - INFO - Clicking login button
+2026-03-05 12:03:37,994 - LoginPage - INFO - Clicking login button
+2026-03-05 12:03:37,994 - LoginPage - INFO - Clicking login button
+2026-03-05 12:03:37,995 - LoginPage - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 12:03:37,995 - LoginPage - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 12:03:37,995 - LoginPage - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 12:03:37,995 - LoginPage - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 12:03:38,282 - LoginPage - INFO - Login form submitted
+2026-03-05 12:03:38,282 - LoginPage - INFO - Login form submitted
+2026-03-05 12:03:38,282 - LoginPage - INFO - Login form submitted
+2026-03-05 12:03:38,282 - LoginPage - INFO - Login form submitted
+2026-03-05 12:03:38,283 - LoginPage - INFO - Waiting for visibility of element: ('id', 'login-btn')
+2026-03-05 12:03:38,283 - LoginPage - INFO - Waiting for visibility of element: ('id', 'login-btn')
+2026-03-05 12:03:38,283 - LoginPage - INFO - Waiting for visibility of element: ('id', 'login-btn')
+2026-03-05 12:03:38,283 - LoginPage - INFO - Waiting for visibility of element: ('id', 'login-btn')

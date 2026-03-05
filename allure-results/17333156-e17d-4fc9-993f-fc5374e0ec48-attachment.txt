@@ -1,0 +1,7 @@
+[32mINFO    [0m root:conftest.py:24 ========== TEST STARTED ==========
+[32mINFO    [0m test_home_page:test_home_page.py:105 TEST STARTED: Menu items visibility
+[32mINFO    [0m test_home_page:test_home_page.py:110 Checking Courses, LIVE Classes, Practice menus
+[32mINFO    [0m HomePage:home_page.py:77 Verifying visibility of main menu items: Courses, LIVE Classes, Practice
+[32mINFO    [0m HomePage:home_page.py:86 All main menu items are visible on the homepage
+[32mINFO    [0m test_home_page:test_home_page.py:115 TEST PASSED: Menu items are visible
+[32mINFO    [0m root:conftest.py:49 ========== TEST FINISHED ==========

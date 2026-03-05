@@ -1,0 +1,7 @@
+[32mINFO    [0m root:conftest.py:24 ========== TEST STARTED ==========
+[32mINFO    [0m test_home_page:test_home_page.py:123 TEST STARTED: Dobby assistant visibility
+[32mINFO    [0m test_home_page:test_home_page.py:128 Checking Dobby assistant icon
+[32mINFO    [0m HomePage:home_page.py:95 Verifying visibility of Dobby assistant icon on homepage
+[32mINFO    [0m HomePage:home_page.py:102 Dobby assistant icon is visible on the homepage
+[32mINFO    [0m test_home_page:test_home_page.py:133 TEST PASSED: Dobby assistant icon is visible
+[32mINFO    [0m root:conftest.py:49 ========== TEST FINISHED ==========

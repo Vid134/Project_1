@@ -1,0 +1,30 @@
+2026-03-05 12:03:16,151 - HomePage - INFO - Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:16,151 - HomePage - INFO - Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:16,151 - HomePage - INFO - Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:16,151 - HomePage - INFO - Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:16,151 - HomePage - INFO - Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:16,151 - HomePage - INFO - Clicking element: ('xpath', "//button[@id='login-btn' and contains(text(),'Login')]")
+2026-03-05 12:03:16,582 - LoginPage - INFO - Starting login process with provided credentials
+2026-03-05 12:03:16,582 - LoginPage - INFO - Starting login process with provided credentials
+2026-03-05 12:03:16,582 - LoginPage - INFO - Entering email into login email field
+2026-03-05 12:03:16,582 - LoginPage - INFO - Entering email into login email field
+2026-03-05 12:03:16,582 - LoginPage - INFO - Entering text into element: ('id', 'email')
+2026-03-05 12:03:16,582 - LoginPage - INFO - Entering text into element: ('id', 'email')
+2026-03-05 12:03:16,583 - LoginPage - INFO - Waiting for visibility of element: ('id', 'email')
+2026-03-05 12:03:16,583 - LoginPage - INFO - Waiting for visibility of element: ('id', 'email')
+2026-03-05 12:03:19,432 - LoginPage - INFO - Entering password into login password field
+2026-03-05 12:03:19,432 - LoginPage - INFO - Entering password into login password field
+2026-03-05 12:03:19,433 - LoginPage - INFO - Entering text into element: ('id', 'password')
+2026-03-05 12:03:19,433 - LoginPage - INFO - Entering text into element: ('id', 'password')
+2026-03-05 12:03:19,433 - LoginPage - INFO - Waiting for visibility of element: ('id', 'password')
+2026-03-05 12:03:19,433 - LoginPage - INFO - Waiting for visibility of element: ('id', 'password')
+2026-03-05 12:03:19,696 - LoginPage - INFO - Clicking login button
+2026-03-05 12:03:19,696 - LoginPage - INFO - Clicking login button
+2026-03-05 12:03:19,696 - LoginPage - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 12:03:19,696 - LoginPage - INFO - Clicking element: ('id', 'login-btn')
+2026-03-05 12:03:19,903 - LoginPage - INFO - Login form submitted
+2026-03-05 12:03:19,903 - LoginPage - INFO - Login form submitted
+2026-03-05 12:03:19,903 - LoginPage - INFO - Fetching login error message for invalid login attempt
+2026-03-05 12:03:19,903 - LoginPage - INFO - Fetching login error message for invalid login attempt
+2026-03-05 12:03:19,904 - LoginPage - INFO - Waiting for visibility of element: ('class name', 'invalid-feedback')
+2026-03-05 12:03:19,904 - LoginPage - INFO - Waiting for visibility of element: ('class name', 'invalid-feedback')

@@ -1,0 +1,12 @@
+[32mINFO    [0m root:conftest.py:24 ========== TEST STARTED ==========
+[32mINFO    [0m test_home_page:test_home_page.py:77 TEST STARTED: Signup button visibility & clickability
+[32mINFO    [0m test_home_page:test_home_page.py:82 Checking if Signup button is visible
+[32mINFO    [0m pages.home_page:home_page.py:55 Checking visibility of Signup button on Home page
+[32mINFO    [0m HomePage:base_page.py:62 Waiting for visibility of element: ('xpath', "//button[text()='Sign up']")
+[32mINFO    [0m test_home_page:test_home_page.py:87 Clicking Signup button
+[32mINFO    [0m pages.home_page:home_page.py:61 Clicking Signup button on Home page
+[32mINFO    [0m HomePage:base_page.py:79 Clicking element: ('xpath', "//button[text()='Sign up']")
+[32mINFO    [0m test_home_page:test_home_page.py:92 Verifying Signup page is opened
+[32mINFO    [0m pages.home_page:home_page.py:67 Verifying whether Signup page is opened
+[32mINFO    [0m test_home_page:test_home_page.py:97 TEST PASSED: Signup button works correctly
+[32mINFO    [0m root:conftest.py:49 ========== TEST FINISHED ==========
